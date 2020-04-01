@@ -1,0 +1,186 @@
+{
+  "arrayOfProducts": [
+    {
+      "id":1,
+      "imgUrl": "./images/all/p1.jpg",
+      "name": "b",
+      "price": 110,
+      "category":"combo"
+    },
+    {
+      "id":2,
+      "imgUrl": "./images/all/p2.jpg",
+      "name": "a",
+      "price": 91,
+      "category":"shirts"
+    },
+    {
+      "id":3,
+      "imgUrl": "./images/all/p3.jpg",
+      "name": "CATE RIGID BAG",
+      "price": 64.5,
+      "category":"shirts"
+    },
+    {
+      "id":4,
+      "imgUrl": "./images/all/p4.jpg",
+      "name": "GUESS CONNECT WATCH",
+      "price": 500,
+      "category":"shirts"
+    },
+    {
+      "id":5,
+      "imgUrl": "./images/all/p5.jpg",
+      "name": "'70s RETRO GLAM KEFIAH",
+      "price": 20,
+      "category":"combo"
+    },
+    {
+      "id":6,
+      "imgUrl": "./images/all/p6.jpg",
+      "name": "CHECK PRINT SHIRT",
+      "price": 110,
+      "category":"combo"
+    },
+    {
+      "id":7,
+      "imgUrl": "./images/all/p7.jpg",
+      "name": "GLORIA HIGH LOGO SNEAKER",
+      "price": 91,
+      "category":"combo"
+    },
+    {
+      "id":8,
+      "imgUrl": "./images/all/p8.jpg",
+      "name": "CATE RIGID BAG",
+      "price": 44.5,
+      "category":"combo"
+    },
+    {
+      "id":9,
+      "imgUrl": "./images/all/p9.jpg",
+      "name": "GUESS CONNECT WATCH",
+      "price": 550,
+      "category":"combo"
+    },
+    {
+      "id":10,
+      "imgUrl": "./images/all/p10.jpg",
+      "name": "'70s RETRO GLAM KEFIAH",
+      "price": 200,
+      "category":"shirts"
+    },
+    {
+      "id":11,
+      "imgUrl": "./images/all/p11.jpg",
+      "name": "CHECK PRINT SHIRT",
+      "price": 150,
+      "category":"shirts"
+    },
+    {
+      "id":12,
+      "imgUrl": "./images/all/p12.jpg",
+      "name": "GLORIA HIGH LOGO SNEAKER",
+      "price": 81,
+      "category":"shirts"
+    },
+    {
+      "id":13,
+      "imgUrl": "./images/all/p13.jpg",
+      "name": "CATE RIGID BAG",
+      "price": 94.5,
+      "category":"combo"
+    },
+    {
+      "id":14,
+      "imgUrl": "./images/all/p14.jpg",
+      "name": "GUESS CONNECT WATCH",
+      "price": 438.9,
+      "category":"shirts"
+    },
+    {
+      "id":15,
+      "imgUrl": "./images/all/p15.jpg",
+      "name": "'70s RETRO GLAM KEFIAH",
+      "price": 30,
+      "category":"shirts"
+    },
+    {
+      "id":16,
+      "imgUrl": "./images/all/p16.jpg",
+      "name": "CHECK PRINT SHIRT",
+      "price": 10,
+      "category":"shirts"
+    },
+    {
+      "id":17,
+      "imgUrl": "./images/all/p17.jpg",
+      "name": "GLORIA HIGH LOGO SNEAKER",
+      "price": 91,
+      "category":"shirts"
+    },
+    {
+      "id":18,
+      "imgUrl": "./images/all/p18.jpg",
+      "name": "CATE RIGID BAG",
+      "price": 94.5,
+      "category":"shirts"
+    },
+    {
+      "id":19,
+      "imgUrl": "./images/all/p19.jpg",
+      "name": "GUESS CONNECT WATCH",
+      "price": 438.9,
+      "category":"shirts"
+    },
+    {
+      "id":20,
+      "imgUrl": "./images/all/p20.jpg",
+      "name": "'70s RETRO GLAM KEFIAH",
+      "price": 40,
+      "category":"shirts"
+    },
+    {
+      "id":21,
+      "imgUrl": "./images/all/j.png",
+      "name": "'70s RETRO GLAM KEFIAH",
+      "price": 20,
+      "category":"jeans"
+    },
+    {
+      "id":22,
+      "imgUrl": "./images/all/j2.png",
+      "name": "CHECK PRINT SHIRT",
+      "price": 170,
+      "category":"jeans"
+    },
+    {
+      "id":23,
+      "imgUrl": "./images/all/j3.png",
+      "name": "GLORIA HIGH LOGO SNEAKER",
+      "price": 91,
+      "category":"jeans"
+    },
+    {
+      "id":24,
+      "imgUrl": "./images/all/j4.png",
+      "name": "CATE RIGID BAG",
+      "price": 104.5,
+      "category":"jeans"
+    },
+    {
+      "id":25,
+      "imgUrl": "./images/all/j5.png",
+      "name": "GUESS CONNECT WATCH",
+      "price": 238.9,
+      "category":"jeans"
+    },
+    {
+      "id":26,
+      "imgUrl": "./images/all/j6.png",
+      "name": "'70s RETRO GLAM KEFIAH",
+      "price": 60,
+      "category":"jeans"
+    }
+  ]
+}

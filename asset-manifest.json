@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/shoping-app/static/css/main.5577268e.chunk.css",
+    "main.js": "/shoping-app/static/js/main.0f4d106b.chunk.js",
+    "main.js.map": "/shoping-app/static/js/main.0f4d106b.chunk.js.map",
+    "runtime-main.js": "/shoping-app/static/js/runtime-main.1b012632.js",
+    "runtime-main.js.map": "/shoping-app/static/js/runtime-main.1b012632.js.map",
+    "static/js/2.f993d9d1.chunk.js": "/shoping-app/static/js/2.f993d9d1.chunk.js",
+    "static/js/2.f993d9d1.chunk.js.map": "/shoping-app/static/js/2.f993d9d1.chunk.js.map",
+    "index.html": "/shoping-app/index.html",
+    "precache-manifest.6eddf05a042166516d5307568c91f0ca.js": "/shoping-app/precache-manifest.6eddf05a042166516d5307568c91f0ca.js",
+    "service-worker.js": "/shoping-app/service-worker.js",
+    "static/css/main.5577268e.chunk.css.map": "/shoping-app/static/css/main.5577268e.chunk.css.map",
+    "static/js/2.f993d9d1.chunk.js.LICENSE.txt": "/shoping-app/static/js/2.f993d9d1.chunk.js.LICENSE.txt",
+    "static/media/cart.svg": "/shoping-app/static/media/cart.f9377cf0.svg",
+    "static/media/font-awesome.min.css": "/shoping-app/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/heart_2.svg": "/shoping-app/static/media/heart_2.6f7cd191.svg",
+    "static/media/home.jpg": "/shoping-app/static/media/home.4339ff2f.jpg",
+    "static/media/phone.svg": "/shoping-app/static/media/phone.6704d6e4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b012632.js",
+    "static/js/2.f993d9d1.chunk.js",
+    "static/css/main.5577268e.chunk.css",
+    "static/js/main.0f4d106b.chunk.js"
+  ]
+}
